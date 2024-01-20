@@ -13,7 +13,7 @@
 
 
 
-### Connect with Me :
+### Social :
 
 <a href="www.linkedin.com/in/noureldenhany" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Elden%20Hany-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://www.youtube.com/channel/UCJ70r4VUEnuY8cLVu1M9U8w" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Elden%20Hany-0077B5?style=for-the-badge&logo=Youtube&logoColor=red"/></a>
