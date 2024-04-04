@@ -24,3 +24,13 @@
 ![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Nowraldo">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nowraldo&show_icons=true&hide=&count_private=true&title_color=fa0c0c&text_color=ffffff&icon_color=fa0c0c&bg_color=000000&hide_border=true&show_icons=true" alt="Nowraldo's GitHub stats" />
+</a>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nowraldo&show_icons=true&locale=en&layout=compact" alt="Nowraldo" /></p>
