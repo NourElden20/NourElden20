@@ -7,7 +7,7 @@
 </p> 
 
 - 🏢 I'm a computer science student at @AL-Shorouk Academy and .Net Backend Vice-Head at @GDSC-SHA.
-- 💻 I'm recording programming vidoes on youtube ( C++ , C# )
+- 💻 I'm recording programming videos on YouTube ( C++, C# )
 - 👨‍💻 Technical vice at @F12
 - 💬 Ask about my experience with C++ , C# and problem solving.  
 
@@ -25,4 +25,11 @@
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
+[![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=Nowraldo&show_icons=true&theme=dark&title_color=ff000c&text_color=ffffff&icon_color=ff000c&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nowraldo&label=Profile%20views&color=0e75b6&style=flat" alt="Nowraldo" /> </p>
