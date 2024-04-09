@@ -8,7 +8,7 @@
 
 - 🏢 I'm a computer science student at @AL-Shorouk Academy and .Net Backend Vice-Head at @GDSC-SHA.
 - 💻 I'm recording programming videos on YouTube ( C++, C# )
-- 👨‍💻 Technical vice at @F12
+- 👨‍💻 Chairman at @F12
 - 💬 Ask about my experience with C++ , C# and problem solving.  
 
 ###
