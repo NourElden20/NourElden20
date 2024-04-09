@@ -11,25 +11,46 @@
 - 👨‍💻 Technical vice at @F12
 - 💬 Ask about my experience with C++ , C# and problem solving.  
 
+###
+<h3 align="left">Social :</h3>
+
+###
+
+<div align="left">
+  <a href="http://www.linkedin.com/in/noureldenhany/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.youtube.com/channel/UCJ70r4VUEnuY8cLVu1M9U8w" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  </a>
+  
+
+</div>
+
+###
+
+<h3 align="left">Technologies :</h3>
+
+###
 
 
-### Social :
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="40" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt="dotnetcore logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub logo"  />
+  <img width="12" />
+  
+</div>
+<br>
 
-<a href="www.linkedin.com/in/noureldenhany" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Elden%20Hany-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCJ70r4VUEnuY8cLVu1M9U8w" target="_blank"><img src="https://img.shields.io/badge/-Nour%20Elden%20Hany-0077B5?style=for-the-badge&logo=Youtube&logoColor=red"/></a>
-
-
-### 🛠 &nbsp;Tech Stack
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=Cpp&logoColor=1572B6)&nbsp;
-![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=Csharp&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 
 [![My GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=NourElden20&show_icons=true&theme=dark&title_color=ff000c&text_color=ffffff&icon_color=ff000c&bg_color=000000&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NourElden20&label=Profile%20views&color=0e75b6&style=flat" alt="NourElden20" /> </p>
