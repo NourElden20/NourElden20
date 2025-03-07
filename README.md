@@ -8,10 +8,14 @@
   <img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2024/2/424575fe9318e72b134a8994de3331043586294bff1965b941d949b335be507a.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&amp;X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240420%2Fus-east-1%2Fs3%2Faws4_request&amp;X-Amz-Date=20240420T132124Z&amp;X-Amz-Expires=86400&amp;X-Amz-SignedHeaders=host&amp;X-Amz-Signature=d03de365f433c9c402bb3fe40611c9353d35adcefd77bb5dec94e17665a636a4" alt="" loading="lazy" style="">
 </p> 
 
-- 🏢 I'm a computer science student at @AL-Shorouk Academy and .Net Backend Vice-Head at @GDSC-SHA.
-- 💻 I'm recording programming videos on YouTube ( C++, C# )
-- 👨‍💻 Chairman at @F12
-- 💬 Ask about my experience with C++ , C# and problem solving.  
+## 🚀 Who Am I?  
+🔹 **.NET Backend Developer & Team Leader**  
+🔹 **Instructor for C++ at Planit**  
+🔹 **Lead at Developer Student Clubs (DSC)**  
+🔹 **Passionate about problem-solving & software Development**  
+🔹 **Creating content on C++ & C# to help others learn**  
+
+💡 Always exploring new technologies and improving system designs!  
 
 ###
 <h3 align="left">Social :</h3>
