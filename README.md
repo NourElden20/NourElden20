@@ -9,9 +9,9 @@
 </p> 
 
 ## 🚀 Who Am I?  
-🔹 **.NET Backend Developer & Team Leader**  
+🔹 **.NET Backend Developer**  
 🔹 **Instructor for C++ at Planit**  
-🔹 **Lead at Developer Student Clubs (DSC)**  
+🔹 **Community Leader at Developer Student Clubs (DSC)**  
 🔹 **Passionate about problem-solving & software Development**  
 🔹 **Creating content on C++ & C# to help others learn**  
 
